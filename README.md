@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Akyl and I practice iOS app development full-time.
+My name is Akyl and I practice iOS app developing full-time.
 
 handle (telegram, linkedin, instagram): **@mukkatay**
