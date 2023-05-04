@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 My name is Akyl and I practice iOS app development full-time.
 
-handle (telegram, linkedin, instagram): @mukkatay
+handle (telegram, linkedin, instagram): **@mukkatay**
