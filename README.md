@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Akyl and I practice iOS development full-time.
+
+handle (telegram, linkedin, instagram): @mukkatay
