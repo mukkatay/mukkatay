@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Akyl and I practice iOS app developing full-time.
 
-handle (telegram, linkedin, instagram): **@mukkatay**
+handle (telegram, linkedin): **@mukkatay**
 
 email: akylmukatay@gmail.com
 
