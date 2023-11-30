@@ -18,6 +18,4 @@ My name is Akyl and I practice iOS app developing full-time.
 
 handle (telegram, linkedin): **@mukkatay**
 
-email: akylmukatay@gmail.com
-
 from 🇰🇿
